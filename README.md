@@ -12,7 +12,6 @@
 
 
   | ![](images/project_Structure.png)
-  |  --- | 
 
   ## Installation
 
