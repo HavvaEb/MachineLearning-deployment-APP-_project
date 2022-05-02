@@ -8,7 +8,13 @@
   ## Description
     The real estate company "ImmoEliza" asked me to predict the properties price based on the data which I have scrapped from their website. Their main request is to be created a machine learning model to predict on Belgium's real estate sales. In other words,  "ImmoEliza" has hired me to build a tool that enables the company to predict property prices using linear regression.
 
+<<<<<<< HEAD
   ![](images/project_structure.png)
+=======
+
+
+
+>>>>>>> e8575b248086344b90619e9f300e221edcc606a4
 
   ## Installation
 
