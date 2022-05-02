@@ -8,10 +8,7 @@
   ## Description
     The real estate company "ImmoEliza" asked me to predict the properties price based on the data which I have scrapped from their website. Their main request is to be created a machine learning model to predict on Belgium's real estate sales. In other words,  "ImmoEliza" has hired me to build a tool that enables the company to predict property prices using linear regression.
 
-
-
-
-  |  ![](images/project_structure.png) |
+  ![](images/project_structure.png)
 
   ## Installation
 
@@ -27,7 +24,7 @@ This project has four parts :
 
  model.py — This contains code for the machine learning model to predict price based on the defined features.
  
- app.py — This contains Flask APIs that receives sales details through GUI or API calls, computes the predicted value based on our model and returns it.
+ app.py — This contains Flask APIs that receives sales details through API calls, computes the predicted value based on our model and returns it.
 
  request.py — This uses requests module to call APIs defined in app.py and displays the returned value.
 
