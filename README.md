@@ -11,7 +11,6 @@
 
 
 
-  ![](images/project_structure.png) 
 
   ## Installation
 
